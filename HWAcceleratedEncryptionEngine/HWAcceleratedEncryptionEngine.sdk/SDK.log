@@ -1,0 +1,6 @@
+03:26:16 INFO  : Launching XSDB server: xsdb -n /opt/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+03:26:20 INFO  : XSDB server has started successfully.
+03:26:20 INFO  : Restoring global repository preferences: 
+		 /home/tjlw/Research/EmbeddedLinux/XilinxResources/device-tree-xlnx
+		 /opt/PetalinuxXilinxTool/petalinux-v2015.4-final/components/edk_user_repository
+03:26:21 INFO  : Processing command line option -hwspec /home/tjlw/HWAcceleratedEncryptionEngine/HWAcceleratedEncryptionEngine.sdk/EncryptionSubsystem_wrapper.hdf.

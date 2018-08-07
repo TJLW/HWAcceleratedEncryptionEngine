@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:44:32 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Mon Apr  3 19:54:58 2017
+# Process ID: 7517
+# Current directory: /home/tjlw/HWAcceleratedEncryptionEngine/HWAcceleratedEncryptionEngine.runs/impl_1
+# Command line: vivado -log EncryptionSubsystem_wrapper.vdi -applog -messageDb vivado.pb -mode batch -source EncryptionSubsystem_wrapper.tcl -notrace
+# Log file: /home/tjlw/HWAcceleratedEncryptionEngine/HWAcceleratedEncryptionEngine.runs/impl_1/EncryptionSubsystem_wrapper.vdi
+# Journal file: /home/tjlw/HWAcceleratedEncryptionEngine/HWAcceleratedEncryptionEngine.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source EncryptionSubsystem_wrapper.tcl -notrace
